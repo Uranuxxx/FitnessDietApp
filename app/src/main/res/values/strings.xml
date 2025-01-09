@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FitnessDietApp</string>
+        <string name="hint_weight">体重 (kg)</string>
+        <string name="hint_height">身長 (cm)</string>
+        <string name="hint_goal_calories">目標摂取カロリー (kcal)</string>
+        <string name="button_calculate">計算</string>
+    </resources>
+
+
